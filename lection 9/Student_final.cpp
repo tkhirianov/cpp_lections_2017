@@ -25,7 +25,7 @@ struct Student
 
   ~Student()
   {
-      std::cout << "I AM DESTROYED. RIP: ";
+      std::cout << "I AM DESTROYED. ";
       print();
   }
 };
